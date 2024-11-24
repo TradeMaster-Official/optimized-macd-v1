@@ -1,0 +1,1 @@
+# optimized-macd-v1
