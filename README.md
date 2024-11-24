@@ -2,6 +2,8 @@
 
 Welcome to the **Optimized MACD Indicator**! This Pine Script indicator is designed to provide a more responsive and customizable Moving Average Convergence Divergence (MACD) indicator for your trading strategies.
 
+![Optimized MACD Indicator](macd.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
